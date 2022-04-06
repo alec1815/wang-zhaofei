@@ -1,7 +1,17 @@
 ### Hi there 👋
 
+😄I'm glad that you clicked on my home page<br>
+📫How to reach me: 18803091700@163.com<br>
+
+![](https://github-readme-stats.vercel.app/api?username=wzhaofei&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wzhaofei.wzhaofei)
+
+
 <!--
 **wzhaofei/wzhaofei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wzhaofei&show_icons=true">](https://metrics.lecoq.io/wzhaofei#gh-light-mode-only)
 
 Here are some ideas to get you started:
 
