@@ -5,7 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=wzhaofei&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wzhaofei.wzhaofei)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wzhaofei)
 
 
 <!--
