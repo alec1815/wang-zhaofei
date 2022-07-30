@@ -1,7 +1,7 @@
 ### Hey, wzhaofei there! 👋
 
 😄I'm glad that you clicked on my home page<br>
-📫How to reach me: 18803091700@163.com<br>
+📫How to reach me: 505139165@qq.com<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=wzhaofei&show_icons=true)
 
