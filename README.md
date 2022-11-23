@@ -8,8 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       2 hrs 14 mins   █████████████████████░░░░   83.50 %
-Other        22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Vue.js       4 hrs 26 mins   ██████████████████████▓░░   90.85 %
+Other        18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
 ```
 
 <!--END_SECTION:waka-->
